@@ -6,7 +6,7 @@ Clickbutton.forEach(btn => {
   btn.addEventListener('click', addToCarritoItem)
 })
 
-//Funcion para añadir un item al carrito de compras
+//Funcion para añadir un item al carrito de compras..
 
 function addToCarritoItem(e) {
   const button = e.target
